@@ -1,2 +1,11 @@
-# Grokking_algorithms
-# Grokking Algorithms Practice in JavaScript    This repository contains my JavaScript implementations of algorithms and data structures from the book **"Grokking Algorithms"** by Aditya Bhargava.    ### Purpose   - Learning algorithms by porting Python examples from the book to JavaScript.   - Practicing clean and efficient code.   - Building a reference for future interviews and projects.    ### Disclaimer   This is a **personal educational project**. All credit for the original book and concepts goes to the author, Aditya Bhargava. The Python code examples can be found in the [official repository](https://github.com/egonSchiele/grokking_algorithms).
+# Grokking Algorithms Practice in JavaScript  
+
+This repository contains my JavaScript implementations of algorithms and data structures from the book **"Grokking Algorithms"** by Aditya Bhargava.  
+
+### Purpose  
+- Learning algorithms by porting Python examples from the book to JavaScript.  
+- Practicing clean and efficient code.  
+- Building a reference for future interviews and projects.  
+
+### Disclaimer  
+This is a **personal educational project**. All credit for the original book and concepts goes to the author, Aditya Bhargava. The Python code examples can be found in the [official repository](https://github.com/egonSchiele/grokking_algorithms).

@@ -1,0 +1,22 @@
+{
+    "name": "phone-book-hashtable",
+    "version": "1.0.0",
+    "description": "Реализация телефонной книги на основе хэш-таблиц",
+    "main": "src/PhoneBook.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "test": "jest",
+        "dev": "node src/index.js"
+    },
+    "keywords": [
+        "hash-tables",
+        "phone-book",
+        "javascript",
+        "data-structures"
+    ],
+    "author": "PlayerFront",
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "^29.0.0"
+    }
+}
